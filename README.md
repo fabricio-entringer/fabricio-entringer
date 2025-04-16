@@ -30,8 +30,8 @@ Hey there! I'm Fabricio, a passionate software developer with a love for solving
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/fabricio-entringer/project-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fabricio-entringer&repo=project-1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/fabricio-entringer/lifesync-task-manager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fabricio-entringer&repo=lifesync-task-manager&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/fabricio-entringer/project-2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fabricio-entringer&repo=project-2&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
