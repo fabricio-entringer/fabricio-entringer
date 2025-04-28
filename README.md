@@ -25,7 +25,7 @@ Hey there! I'm Fabricio, a passionate software developer with a love for solving
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabricio-entringer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Fabricio's GitHub Stats" />
 </a>
 <a href="https://github.com/fabricio-entringer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-entringer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-entringer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=*" />
 </a>
 
 ## 🚀 Featured Projects
