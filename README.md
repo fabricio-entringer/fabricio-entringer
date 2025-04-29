@@ -56,7 +56,7 @@ When I'm not coding, I'm probably [doing something interesting and unique to you
 ## 📫 Get in Touch
 
 - Website: [entringer.dev](https://entringer.dev)
-- LinkedIn: [fabricio-entringer](https://linkedin.com/in/fabricio-entringer)
+- LinkedIn: [Fabricio Entringer](https://www.linkedin.com/in/fabricioentringer/)
 - Twitter: [@fabentringer](https://twitter.com/fabentringer)
 
 ---
