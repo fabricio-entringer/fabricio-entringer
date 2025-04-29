@@ -57,7 +57,7 @@ When I'm not coding, I'm probably [doing something interesting and unique to you
 
 - Website: [entringer.dev](https://entringer.dev)
 - LinkedIn: [Fabricio Entringer](https://www.linkedin.com/in/fabricioentringer/)
-- Twitter: [@fabentringer](https://twitter.com/fab_entringer)
+- Twitter: [@fab_entringer](https://twitter.com/fab_entringer)
 
 ---
 
