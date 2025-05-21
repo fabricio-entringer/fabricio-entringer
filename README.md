@@ -31,7 +31,7 @@ Hey there! I'm Fabricio, a passionate software developer with a love for solving
 ## 🚀 Featured Projects
 
 <a href="https://github.com/fabricio-entringer/linkedin-agent">
-  <img align="left" style="height: 150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=fabricio-entringer&repo=linkedin-agent&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" style="height: 150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=fabricio-entringer&repo=linkedin-agent&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/fabricio-entringer/entringer-github-bot">
   <img align="right" style="height: 150px;" src="https://github-readme-stats.vercel.app/api/pin/?username=fabricio-entringer&repo=entringer-github-bot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
