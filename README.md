@@ -2,7 +2,8 @@
 
 # 👨‍💻 Fabricio Entringer
 
-### Senior Software Engineer | Cloud Architect | Full Stack Developer
+### Senior Software Engineer | Full Stack Developer | Machine Learning Engineer
+### 🇱🇺 Based in Luxembourg • 🌍 Working remotely for the whole world
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fabricio-entringer&color=brightgreen&style=for-the-badge)
 [![Website](https://img.shields.io/badge/Website-entringer.dev-blue?style=for-the-badge&logo=google-chrome)](https://entringer.dev)
@@ -19,11 +20,11 @@
 const fabricio = {
     name: "Fabricio Entringer",
     role: "Senior Software Engineer",
-    location: "Brazil 🇧🇷",
-    experience: "5+ years",
+    location: "Luxembourg 🇱🇺",
+    experience: "24 years",
     focus: ["Cloud Native Applications", "System Architecture", "AI/ML Integration"],
     currentlyLearning: ["Advanced Kubernetes", "Machine Learning", "Microservices"],
-    passions: ["Clean Code", "DevOps", "Open Source", "Knowledge Sharing"],
+    passions: ["Clean Code", "DevOps", "Open Source", "Knowledge Sharing", "Machine Learning"],
     motto: "Building scalable solutions that make a difference"
 };
 ```
