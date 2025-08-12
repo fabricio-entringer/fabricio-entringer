@@ -193,11 +193,11 @@ currently_studying:
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/fabricio-entringer/6mlet-tech-challenge-01/pull/78) in [fabricio-entringer/6mlet-tech-challenge-01](https://github.com/fabricio-entringer/6mlet-tech-challenge-01)
-2. 💪 Opened PR [#78](https://github.com/fabricio-entringer/6mlet-tech-challenge-01/pull/78) in [fabricio-entringer/6mlet-tech-challenge-01](https://github.com/fabricio-entringer/6mlet-tech-challenge-01)
-3. 🎉 Merged PR [#77](https://github.com/fabricio-entringer/6mlet-tech-challenge-01/pull/77) in [fabricio-entringer/6mlet-tech-challenge-01](https://github.com/fabricio-entringer/6mlet-tech-challenge-01)
-4. 💪 Opened PR [#77](https://github.com/fabricio-entringer/6mlet-tech-challenge-01/pull/77) in [fabricio-entringer/6mlet-tech-challenge-01](https://github.com/fabricio-entringer/6mlet-tech-challenge-01)
-5. 🎉 Merged PR [#76](https://github.com/fabricio-entringer/6mlet-tech-challenge-01/pull/76) in [fabricio-entringer/6mlet-tech-challenge-01](https://github.com/fabricio-entringer/6mlet-tech-challenge-01)
+1. 🔒 Closed issue [#39](https://github.com/fabricio-entringer/6mlet-tech-challenge-01/issues/39) in [fabricio-entringer/6mlet-tech-challenge-01](https://github.com/fabricio-entringer/6mlet-tech-challenge-01)
+2. 🔒 Closed issue [#25](https://github.com/fabricio-entringer/6mlet-tech-challenge-01/issues/25) in [fabricio-entringer/6mlet-tech-challenge-01](https://github.com/fabricio-entringer/6mlet-tech-challenge-01)
+3. 🔒 Closed issue [#22](https://github.com/fabricio-entringer/6mlet-tech-challenge-01/issues/22) in [fabricio-entringer/6mlet-tech-challenge-01](https://github.com/fabricio-entringer/6mlet-tech-challenge-01)
+4. 🎉 Merged PR [#82](https://github.com/fabricio-entringer/6mlet-tech-challenge-01/pull/82) in [fabricio-entringer/6mlet-tech-challenge-01](https://github.com/fabricio-entringer/6mlet-tech-challenge-01)
+5. 💪 Opened PR [#82](https://github.com/fabricio-entringer/6mlet-tech-challenge-01/pull/82) in [fabricio-entringer/6mlet-tech-challenge-01](https://github.com/fabricio-entringer/6mlet-tech-challenge-01)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
