@@ -193,11 +193,11 @@ currently_studying:
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/fabricio-entringer/octo-data-gateway/issues/1) in [fabricio-entringer/octo-data-gateway](https://github.com/fabricio-entringer/octo-data-gateway)
-2. 🗣 Commented on [#256](https://github.com/mdomke/schwifty/issues/256#issuecomment-3240305964) in [mdomke/schwifty](https://github.com/mdomke/schwifty)
-3. 🎉 Merged PR [#1](https://github.com/fabricio-entringer/java-evolution/pull/1) in [fabricio-entringer/java-evolution](https://github.com/fabricio-entringer/java-evolution)
-4. 💪 Opened PR [#257](https://github.com/mdomke/schwifty/pull/257) in [mdomke/schwifty](https://github.com/mdomke/schwifty)
-5. ❗ Opened issue [#256](https://github.com/mdomke/schwifty/issues/256) in [mdomke/schwifty](https://github.com/mdomke/schwifty)
+1. ❗ Opened issue [#14](https://github.com/fabricio-entringer/rest-health/issues/14) in [fabricio-entringer/rest-health](https://github.com/fabricio-entringer/rest-health)
+2. ❗ Opened issue [#13](https://github.com/fabricio-entringer/rest-health/issues/13) in [fabricio-entringer/rest-health](https://github.com/fabricio-entringer/rest-health)
+3. ❗ Opened issue [#1](https://github.com/fabricio-entringer/octo-data-gateway/issues/1) in [fabricio-entringer/octo-data-gateway](https://github.com/fabricio-entringer/octo-data-gateway)
+4. 🗣 Commented on [#256](https://github.com/mdomke/schwifty/issues/256#issuecomment-3240305964) in [mdomke/schwifty](https://github.com/mdomke/schwifty)
+5. 🎉 Merged PR [#1](https://github.com/fabricio-entringer/java-evolution/pull/1) in [fabricio-entringer/java-evolution](https://github.com/fabricio-entringer/java-evolution)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
