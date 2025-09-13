@@ -193,11 +193,11 @@ currently_studying:
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/fabricio-entringer/octo-data-gateway/issues/5) in [fabricio-entringer/octo-data-gateway](https://github.com/fabricio-entringer/octo-data-gateway)
-2. ❗ Opened issue [#4](https://github.com/fabricio-entringer/octo-data-gateway/issues/4) in [fabricio-entringer/octo-data-gateway](https://github.com/fabricio-entringer/octo-data-gateway)
-3. ❗ Opened issue [#3](https://github.com/fabricio-entringer/octo-data-gateway/issues/3) in [fabricio-entringer/octo-data-gateway](https://github.com/fabricio-entringer/octo-data-gateway)
-4. ❗ Opened issue [#2](https://github.com/fabricio-entringer/octo-data-gateway/issues/2) in [fabricio-entringer/octo-data-gateway](https://github.com/fabricio-entringer/octo-data-gateway)
-5. ❗ Opened issue [#14](https://github.com/fabricio-entringer/rest-health/issues/14) in [fabricio-entringer/rest-health](https://github.com/fabricio-entringer/rest-health)
+1. 🔒 Closed issue [#5](https://github.com/fabricio-entringer/octo-data-gateway/issues/5) in [fabricio-entringer/octo-data-gateway](https://github.com/fabricio-entringer/octo-data-gateway)
+2. 🎉 Merged PR [#6](https://github.com/fabricio-entringer/octo-data-gateway/pull/6) in [fabricio-entringer/octo-data-gateway](https://github.com/fabricio-entringer/octo-data-gateway)
+3. 💪 Opened PR [#6](https://github.com/fabricio-entringer/octo-data-gateway/pull/6) in [fabricio-entringer/octo-data-gateway](https://github.com/fabricio-entringer/octo-data-gateway)
+4. 🔒 Closed issue [#2](https://github.com/fabricio-entringer/fritz-ip-updater/issues/2) in [fabricio-entringer/fritz-ip-updater](https://github.com/fabricio-entringer/fritz-ip-updater)
+5. 🎉 Merged PR [#5](https://github.com/fabricio-entringer/fritz-ip-updater/pull/5) in [fabricio-entringer/fritz-ip-updater](https://github.com/fabricio-entringer/fritz-ip-updater)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
