@@ -193,11 +193,11 @@ currently_studying:
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/fabricio-entringer/octo-data-gateway/pull/10) in [fabricio-entringer/octo-data-gateway](https://github.com/fabricio-entringer/octo-data-gateway)
-2. 🎉 Merged PR [#9](https://github.com/fabricio-entringer/octo-data-gateway/pull/9) in [fabricio-entringer/octo-data-gateway](https://github.com/fabricio-entringer/octo-data-gateway)
-3. 💪 Opened PR [#9](https://github.com/fabricio-entringer/octo-data-gateway/pull/9) in [fabricio-entringer/octo-data-gateway](https://github.com/fabricio-entringer/octo-data-gateway)
-4. ❗ Opened issue [#8](https://github.com/fabricio-entringer/octo-data-gateway/issues/8) in [fabricio-entringer/octo-data-gateway](https://github.com/fabricio-entringer/octo-data-gateway)
-5. 🔒 Closed issue [#3](https://github.com/fabricio-entringer/octo-data-gateway/issues/3) in [fabricio-entringer/octo-data-gateway](https://github.com/fabricio-entringer/octo-data-gateway)
+1. 🎉 Merged PR [#11](https://github.com/fabricio-entringer/octo-data-gateway/pull/11) in [fabricio-entringer/octo-data-gateway](https://github.com/fabricio-entringer/octo-data-gateway)
+2. 💪 Opened PR [#11](https://github.com/fabricio-entringer/octo-data-gateway/pull/11) in [fabricio-entringer/octo-data-gateway](https://github.com/fabricio-entringer/octo-data-gateway)
+3. 🎉 Merged PR [#10](https://github.com/fabricio-entringer/octo-data-gateway/pull/10) in [fabricio-entringer/octo-data-gateway](https://github.com/fabricio-entringer/octo-data-gateway)
+4. 💪 Opened PR [#10](https://github.com/fabricio-entringer/octo-data-gateway/pull/10) in [fabricio-entringer/octo-data-gateway](https://github.com/fabricio-entringer/octo-data-gateway)
+5. 🎉 Merged PR [#9](https://github.com/fabricio-entringer/octo-data-gateway/pull/9) in [fabricio-entringer/octo-data-gateway](https://github.com/fabricio-entringer/octo-data-gateway)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
