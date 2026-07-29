@@ -193,11 +193,11 @@ currently_studying:
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/fabricio-entringer/health-bridge/pull/13) in [fabricio-entringer/health-bridge](https://github.com/fabricio-entringer/health-bridge)
-2. 🔒 Closed issue [#11](https://github.com/fabricio-entringer/health-bridge/issues/11) in [fabricio-entringer/health-bridge](https://github.com/fabricio-entringer/health-bridge)
-3. 🔒 Closed issue [#10](https://github.com/fabricio-entringer/health-bridge/issues/10) in [fabricio-entringer/health-bridge](https://github.com/fabricio-entringer/health-bridge)
-4. 🔒 Closed issue [#9](https://github.com/fabricio-entringer/health-bridge/issues/9) in [fabricio-entringer/health-bridge](https://github.com/fabricio-entringer/health-bridge)
-5. 🔒 Closed issue [#8](https://github.com/fabricio-entringer/health-bridge/issues/8) in [fabricio-entringer/health-bridge](https://github.com/fabricio-entringer/health-bridge)
+1. ℹ️ Labeled issue [#17](https://github.com/fabricio-entringer/health-bridge-public/issues/17) in [fabricio-entringer/health-bridge-public](https://github.com/fabricio-entringer/health-bridge-public)
+2. ℹ️ Labeled issue [#17](https://github.com/fabricio-entringer/health-bridge-public/issues/17) in [fabricio-entringer/health-bridge-public](https://github.com/fabricio-entringer/health-bridge-public)
+3. ❗ Opened issue [#17](https://github.com/fabricio-entringer/health-bridge-public/issues/17) in [fabricio-entringer/health-bridge-public](https://github.com/fabricio-entringer/health-bridge-public)
+4. ℹ️ Labeled issue [#16](https://github.com/fabricio-entringer/health-bridge-public/issues/16) in [fabricio-entringer/health-bridge-public](https://github.com/fabricio-entringer/health-bridge-public)
+5. ℹ️ Labeled issue [#16](https://github.com/fabricio-entringer/health-bridge-public/issues/16) in [fabricio-entringer/health-bridge-public](https://github.com/fabricio-entringer/health-bridge-public)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
